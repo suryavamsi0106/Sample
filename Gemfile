@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+gem 'ffi'
+gem 'cucumber'
+gem 'watir'
+gem 'rspec'
+gem 'rake'
+gem 'page-object'
+gem 'data_magic'
+gem 'eyes_selenium'
+gem 'require_all'
+
